@@ -1,0 +1,9 @@
+------------------------------------------------API------------------------------------------------------
+THERE IS 4 MODULES OR METHODS THAT WE CAN USE THEM.
+Of course dont forget to use first 
+--->import requests
+
+--->get(requirements, url, parameters(dictionary)) method to get data from the website that you have got required params
+--->post(url, json(params), headers(X-USER-TOKEN)) to create API
+--->put() update
+---->delete() delete
